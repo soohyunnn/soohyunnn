@@ -1,4 +1,6 @@
-### Hi there 👋 I'm SOOHYUN-CHOI
+<h2 align="center">
+Hi there 👋 I'm SOOHYUN-CHOI
+</h2>
 
 <p>
 <a href="http://linkedin.com/in/수현-최-2695a4202/" rel="nofollow">
