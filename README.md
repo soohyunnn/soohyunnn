@@ -13,7 +13,7 @@
 
 </p>
 
-<br></br>
+<hr></hr>
 
 <div style="display: flex" >
 	
