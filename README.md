@@ -46,11 +46,11 @@ Hi there 👋 I'm SOO-HYUN CHOI
 
 ### TECHNILOGY OF INTEREST
 <!-- node.js -->
-<image src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="and 50px" height="70px"/>
+<image src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="40px"/>
 <!-- typeScript -->
 <image src="https://user-images.githubusercontent.com/63652102/106357171-c2fb2980-6347-11eb-9fa4-7dcbd8ed84e0.png" width="50px"/>
 <!-- react-nativ -->
-<image src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="60px"/>
+<image src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="50px"/>
 
 
 
