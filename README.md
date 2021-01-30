@@ -14,7 +14,7 @@ Hi there 👋 I'm SOO-HYUN CHOI
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sksmsqodn20@gmail.com?subject=Olá%20Stefany">
-<img src="https://user-images.githubusercontent.com/58289675/106356436-e4a5e200-6342-11eb-839d-fcb560950c34.png" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/58289675/106356436-e4a5e200-6342-11eb-839d-fcb560950c34.png" width="50">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
