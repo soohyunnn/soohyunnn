@@ -53,19 +53,10 @@ Hi there 👋 I'm SOO-HYUN CHOI
 <image src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="55px"/>
 
 <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohyunnn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-</div>
-<!--
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soohyunnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
--->
 <!--
 **soohyunnn/soohyunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
