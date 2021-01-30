@@ -21,12 +21,15 @@
 <image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/>
 
 </div>
+<br><br><br><br>
+
 <div style="display: center">
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/수현-최-2695a4202/)](http://linkedin.com/in/수현-최-2695a4202/)
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soohyunnn@gmail.com)](mailto:soohyunnn@gmail.com)
 </div>
+<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soohyunnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
