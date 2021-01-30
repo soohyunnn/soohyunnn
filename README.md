@@ -14,7 +14,7 @@ Hi there 👋 I'm SOO-HYUN CHOI
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.notion.so/sososo13/HOME-fc0e4981c22f48c59e1326414e29e414">
-<img src="https://user-images.githubusercontent.com/58289675/106356655-af9a8f00-6344-11eb-8801-0838a09cd548.jpeg" width="90" height="40">
+<img src="https://user-images.githubusercontent.com/58289675/106356655-af9a8f00-6344-11eb-8801-0838a09cd548.jpeg" width="90" height="30">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
