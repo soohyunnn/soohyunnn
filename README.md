@@ -3,7 +3,7 @@
 <div style="display: flex" >
 	
 ### BACKEND
-<!-- Stpring -->
+<!-- Spring -->
 <image src="https://user-images.githubusercontent.com/58289675/106354450-32b3e900-6335-11eb-857c-b6e1fbb6cd48.jpg" height="50">
 <!-- JAVA -->
 <image src="https://user-images.githubusercontent.com/58289675/106355015-f08ca680-6338-11eb-8bfe-620b6936f40a.png" height="50">
@@ -16,12 +16,12 @@
 <!-- HTML -->
 <image src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="50"/>
 <!-- CSS -->
-<image src="https://user-images.githubusercontent.com/58289675/106354895-3137f000-6338-11eb-98b9-026bbbef8057.png" width="50" />
+<image src="https://user-images.githubusercontent.com/63652102/106355276-3138ef80-633a-11eb-964d65875e4dd158.jpg/ width="50"/>
 <!-- JS -->
-<image src="https://user-images.githubusercontent.com/58289675/106354626-92f75a80-6336-11eb-9236-3194e8a1c4f5.jpg" width="50" />
+<image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="50"/>
 
 </div>
-<div>
+<div style="display: center">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soohyunnn@gmail.com)](mailto:soohyunnn@gmail.com)
