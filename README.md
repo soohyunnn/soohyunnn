@@ -44,7 +44,7 @@ Hi there 👋 I'm SOO-HYUN CHOI
 <!-- JS -->
 <image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/>
 
-### TECHNILOGY OF INTEREST
+### TECHNOLOGY OF INTEREST
 <!-- node.js -->
 <image src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="50px"/>
 <!-- typeScript -->
