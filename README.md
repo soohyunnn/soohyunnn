@@ -44,6 +44,18 @@ Hi there 👋 I'm SOO-HYUN CHOI
 <!-- JS -->
 <image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/>
 
+### TECHNILOGY OF INTEREST
+<!-- node.js -->
+
+<!-- typeScript -->
+
+<!-- react-nativ -->
+
+<image src="https://user-images.githubusercontent.com/63652102/106357171-c2fb2980-6347-11eb-9fa4-7dcbd8ed84e0.png" width="50px"/>
+<image src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="50px"/>
+<image src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="70px" height="70px"/>
+<image src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="50"/>
+
 </div>
 
 <br>
