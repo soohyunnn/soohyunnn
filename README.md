@@ -23,11 +23,15 @@
 </div>
 <br><br><br><br>
 
-<div style="display: center">
-	
+<div style="display: flex; justify-content: center;">
+
+<div>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/수현-최-2695a4202/)](http://linkedin.com/in/수현-최-2695a4202/)
-	
+</div>
+
+<div style="margin-left: 5px">
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soohyunnn@gmail.com)](mailto:soohyunnn@gmail.com)
+</div>
 </div>
 <br><br><br>
 
