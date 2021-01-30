@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there 👋 I'm SOOHYUN-CHOI
+Hi there 👋 I'm SOO-HYUN CHOI
 </h2>
 
 <p>
