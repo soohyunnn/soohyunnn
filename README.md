@@ -16,7 +16,7 @@
 <!-- HTML -->
 <image src="https://user-images.githubusercontent.com/58289675/106354870-106f9a80-6338-11eb-80b3-1410019dd688.png" width="50" />
 <!-- CSS -->
-<image src="https://user-images.githubusercontent.com/63652102/106355359-a9071a00-633a-11eb-9544-52af937bc756.jpg" width="50" />
+<image src="https://user-images.githubusercontent.com/63652102/106355359-a9071a00-633a-11eb-9544-52af937bc756.jpg" width="45" />
 <!-- JS -->
 <image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/>
 
