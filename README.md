@@ -26,15 +26,13 @@ Hi there 👋 I'm SOO-HYUN CHOI
 
 <div style="display: flex" >
 	
-### BACKEND
+### STACK
 <!-- Spring -->
 <image src="https://user-images.githubusercontent.com/58289675/106354450-32b3e900-6335-11eb-857c-b6e1fbb6cd48.jpg" height="50">
 <!-- JAVA -->
 <image src="https://user-images.githubusercontent.com/58289675/106355015-f08ca680-6338-11eb-8bfe-620b6936f40a.png" height="50">
 <!-- Mysql -->
 <image src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="50"/>
-
-### FRONTEND
 <!-- React -->
 <image src="https://user-images.githubusercontent.com/58289675/106354567-2ed49680-6336-11eb-92ad-c04ce19d63f3.png" width="50"/>
 <!-- HTML -->
@@ -43,7 +41,9 @@ Hi there 👋 I'm SOO-HYUN CHOI
 <image src="https://user-images.githubusercontent.com/63652102/106355359-a9071a00-633a-11eb-9544-52af937bc756.jpg" width="45" />
 <!-- JS -->
 <image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/>
-
+<!-- Git -->
+<image src="https://user-images.githubusercontent.com/63652102/106355848-fe90f600-633d-11eb-9323-4132c8fec66a.png" width="55" />	
+	
 ### TECHNOLOGY OF INTEREST
 <!-- node.js -->
 <image src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="50px"/>
