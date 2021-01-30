@@ -25,14 +25,12 @@
 
 <div style="display: flex">
 
-<div>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/수현-최-2695a4202/)](http://linkedin.com/in/수현-최-2695a4202/)
-</div>
 
-<div style="margin-left: 5px">
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soohyunnn@gmail.com)](mailto:soohyunnn@gmail.com)
 </div>
-</div>
+
 <br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soohyunnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
