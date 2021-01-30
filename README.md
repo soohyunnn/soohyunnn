@@ -9,7 +9,7 @@ Hi there 👋 I'm SOO-HYUN CHOI
 &nbsp;&nbsp;&nbsp;&nbsp;
 	
 <a href="mailto:sksmsqodn20@gmail.com?subject=Olá%20Stefany">
-<img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
