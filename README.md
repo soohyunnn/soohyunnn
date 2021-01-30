@@ -13,8 +13,8 @@ Hi there 👋 I'm SOO-HYUN CHOI
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:sksmsqodn20@gmail.com?subject=Olá%20Stefany">
-<img src="https://user-images.githubusercontent.com/58289675/106356436-e4a5e200-6342-11eb-839d-fcb560950c34.png" width="70">
+<a href="https://www.notion.so/sososo13/HOME-fc0e4981c22f48c59e1326414e29e414">
+<img src="https://user-images.githubusercontent.com/58289675/106356533-a3fa9880-6343-11eb-89e2-4435067b3c8c.jpeg" width="70">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
