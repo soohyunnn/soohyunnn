@@ -23,7 +23,7 @@
 </div>
 <br>
 
-<div style="display: "flex" >
+<div style="display: inline-flex" >
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/수현-최-2695a4202/)](http://linkedin.com/in/수현-최-2695a4202/)
 
