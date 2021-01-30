@@ -2,8 +2,7 @@
 Hi there 👋 I'm SOO-HYUN CHOI
 </h2>
 
-<p align="center">I am a 2nd year backend developer.</p>
-<p align="center">My goal is to become a full stack developer.</p>
+<p align="center">I am a 2nd year backend developer.<br></br>My goal is to become a full stack developer.</p>
 
 <p>
 <a href="http://linkedin.com/in/수현-최-2695a4202/" rel="nofollow">
