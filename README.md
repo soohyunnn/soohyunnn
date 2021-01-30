@@ -13,6 +13,11 @@ Hi there 👋 I'm SOO-HYUN CHOI
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="mailto:sksmsqodn20@gmail.com?subject=Olá%20Stefany">
+<img src="https://user-images.githubusercontent.com/58289675/106356369-76611f80-6342-11eb-875f-3a778a830c81.png" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=notion&amp;logoColor=white" style="max-width:100%;">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <hr></hr>
