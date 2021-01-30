@@ -18,7 +18,7 @@
 <!-- CSS -->
 <image src="https://user-images.githubusercontent.com/63652102/106355276-3138ef80-633a-11eb-964d65875e4dd158.jpg" width="50" />
 <!-- JS -->
-<image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="40"/>
+<image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/>
 
 </div>
 <div style="display: center">
