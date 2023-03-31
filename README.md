@@ -2,7 +2,7 @@
 Hi there 👋 I'm SOO-HYUN CHOI
 </h2>
 
-<p align="center">I am a 4nd year <b>backend developer</b>.
+<p align="center">I am a 4th year <b>backend developer</b>.
 
 <p>
 <a href="http://linkedin.com/in/수현-최-2695a4202/" rel="nofollow">
