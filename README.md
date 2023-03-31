@@ -40,7 +40,7 @@ Hi there 👋 I'm SOO-HYUN CHOI
 <!-- CSS -->
 <!-- <image src="https://user-images.githubusercontent.com/63652102/106355359-a9071a00-633a-11eb-9544-52af937bc756.jpg" width="45" /> -->
 <!-- JS -->
-<!-- <image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/> -->
+<image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/>
 <!-- Git -->
 <image src="https://user-images.githubusercontent.com/63652102/106355848-fe90f600-633d-11eb-9323-4132c8fec66a.png" width="55" />	
 	
