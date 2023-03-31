@@ -34,13 +34,13 @@ Hi there 👋 I'm SOO-HYUN CHOI
 <!-- Mysql -->
 <image src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="50"/>
 <!-- React -->
-<image src="https://user-images.githubusercontent.com/58289675/106354567-2ed49680-6336-11eb-92ad-c04ce19d63f3.png" width="50"/>
+<!-- <image src="https://user-images.githubusercontent.com/58289675/106354567-2ed49680-6336-11eb-92ad-c04ce19d63f3.png" width="50"/> -->
 <!-- HTML -->
-<image src="https://user-images.githubusercontent.com/58289675/106354870-106f9a80-6338-11eb-80b3-1410019dd688.png" width="50" />
+<!-- <image src="https://user-images.githubusercontent.com/58289675/106354870-106f9a80-6338-11eb-80b3-1410019dd688.png" width="50" /> -->
 <!-- CSS -->
-<image src="https://user-images.githubusercontent.com/63652102/106355359-a9071a00-633a-11eb-9544-52af937bc756.jpg" width="45" />
+<!-- <image src="https://user-images.githubusercontent.com/63652102/106355359-a9071a00-633a-11eb-9544-52af937bc756.jpg" width="45" /> -->
 <!-- JS -->
-<image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/>
+<!-- <image src="https://user-images.githubusercontent.com/63652102/106355182-c25b9680-6339-11eb-95e1-632aa73a0f29.jpg" width="45"/> -->
 <!-- Git -->
 <image src="https://user-images.githubusercontent.com/63652102/106355848-fe90f600-633d-11eb-9323-4132c8fec66a.png" width="55" />	
 	
@@ -50,7 +50,7 @@ Hi there 👋 I'm SOO-HYUN CHOI
 <!-- typeScript -->
 <image src="https://user-images.githubusercontent.com/63652102/106357171-c2fb2980-6347-11eb-9fa4-7dcbd8ed84e0.png" width="50px"/>
 <!-- react-nativ -->
-<image src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="55px"/>
+<!-- <image src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="55px"/> -->
 
 <br><br>
 
