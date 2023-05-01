@@ -77,7 +77,7 @@ Hi there 👋 I'm SOO-HYUN CHOI
 <br><br>
 <div align="center">
 	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohyunnn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohyunnn&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
